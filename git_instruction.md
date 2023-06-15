@@ -7,3 +7,10 @@
 ## Установка Git
 
 Загружаем последнюю версию гита с сайта https://git-scm.com/, устанавливаем с настройками по умолчанию.
+
+## Настройка Git
+
+1. git config **--global user.name "username"**
+2. git config **--global user.email "useremail"**
+
+Чтобы проверить, запомнил ли Git наши данные,можно ввести команду **git config --list**
